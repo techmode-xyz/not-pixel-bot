@@ -155,7 +155,3 @@ Explore similar package solutions:
 - [ICO & IDO Launchpad](https://omisoft.net/demo/white-label-crypto-launchpad-development)  
 - [NFT Marketplace](https://omisoft.net/demo/whitelabel-nft-marketplace-development)  
 - [Meme Coin Development Service](https://omisoft.net/demo/meme-coin-development-service)  
-
----
-
-This README is more focused on presenting the code as a case study of a product that users can order. Let me know if there’s anything you’d like adjusted!
